@@ -4,7 +4,7 @@
     "content": {
         "metaDataVersion": "1.1.0",
         "name": "com.microchip.mcu8.mplabx.project.avr128da48-getting-started-with-tcd-mplab-mcc",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "displayName": "Getting Started with Timer/Counter Type D (TCD)",
         "projectName": "avr128da48-getting-started-with-tcd-mplab-mcc",
         "shortDescription": "This repository contains examples of MCC-generated source code for Timer/Counter Type D (TCD), as described in the TB3212-Getting Started with Timer/Counter Type D (TCD) document.",
